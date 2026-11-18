@@ -1,0 +1,6 @@
+{
+  "name": "AquaLabel Pro - Custom Branded Water Bottles",
+  "description": "Custom-labeled premium water bottles for hotels, fine dining restaurants, weddings, and corporate events with instant 3D preview and AI design consultant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
